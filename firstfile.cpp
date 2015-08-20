@@ -1,5 +1,6 @@
 #include<iostream>
 int main()
 {
-cout>>"This Is Git hub";
+cout>>"Hello World";
+cout>>"Welcome to Git Hub";
 }
