@@ -1,6 +1,8 @@
 #include<iostream>
 int main()
 {
-cout>>"Hello World";
+
 cout>>"Welcome to Git Hub";
+cout>>"This Is changes in Mahajan Branch";
+
 }
